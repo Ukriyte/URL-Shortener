@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SearchResult</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #f4f4f4;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .container {
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      max-width: 400px;
+    }
+
+    .short-url {
+      color: #007bff;
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    .url-link {
+      color: #007bff;
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    .clicks {
+      color: #555555;
+      font-size: 14px;
+    }
+
+    .description {
+      color: #777777;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+
+<body>
+  <div class="container">
+    <h1 class="text-center"></h1>
+    <div class="short-url text-center">
+    <a class="url-link" href="http://localhost:5000/<%= locals.longsearch2 %>">http://localhost:5000/<%= locals.longsearch2 %>
+    </a></div>
+    <div class="clicks text-center">Clicks: <%= locals.longsearch3 %></div>
+    <div class="description text-center">Description: <%= locals.longsearch4 %></div>
+  </div>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
