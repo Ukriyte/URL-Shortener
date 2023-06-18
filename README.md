@@ -164,7 +164,13 @@ https://mongoosejs.com/docs/index.html
 
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
+## Key Takeaways:
 
+💫 The URL shortener project allowed for the practical application of full-stack development, integrating frontend (HTML, CSS, Bootstrap, EJS) and backend (Node.js, Express, MongoDB) technologies.
+
+💫 Learning outcomes included integrating MongoDB for database functionality, and exploring URL shortening techniques, search functionality, and user interface design.
+
+💫 The project emphasized error handling, documentation, project organization, and provided opportunities for continuous improvement and future enhancements.
 
 ## THANK YOU✌️🐶
 
