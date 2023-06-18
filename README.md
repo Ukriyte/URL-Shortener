@@ -72,7 +72,7 @@ Search the following in the browser and URL shortner will open up
   http://localhost:5000
 ```
 
-## Working behind the URL Shortner
+## Internal Wokring:
 
 ### URL Shrinking Mechanism:
 
@@ -93,7 +93,7 @@ app.post('/shortUrls', async (req,res)=>{
 ### Database on frontend
 
 Every get request to the initial page is rendered by the backend and all the ShortURLs and the data attached with them is send
-This is put in form of a table using html, bootstrap. The for.each loop of is created using ejs.
+This is put in form of a table using html, bootstrap. The for.each loop is created using ejs.
 
 ### Redirecting of Short URLs to original URL
 
