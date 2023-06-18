@@ -146,6 +146,25 @@ app.post('/search', async (req,res) =>{
 })
 //1 route for three different parameters
 ```
+## Resources used:
+
+### Youtube Tutorials:
+
+https://www.youtube.com/watch?v=oSIv-E60NiU&ab_channel=CodeWithHarry
+
+https://www.youtube.com/watch?v=SccSCuHhOw0&ab_channel=WebDevSimplified
+
+https://www.youtube.com/watch?v=XlvsJLer_No&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&ab_channel=WebDevSimplified
+
+https://www.youtube.com/watch?v=IqpfBGsALqc&list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt&ab_channel=WalkThroughCode
+
+### Documetations:
+
+https://mongoosejs.com/docs/index.html
+
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 
+
+## THANK YOU✌️🐶
 
