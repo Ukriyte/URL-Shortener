@@ -1,6 +1,6 @@
-# URL-Shortner
+# URL-Shortener
 
-URL Shortner with multiple features 
+URL Shortener with multiple features 
 
 ## Features:
 
